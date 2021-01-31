@@ -5,10 +5,6 @@
     <link>https://anonychun.github.io/</link>
     <description>Recent content on Anonychun</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://anonychun.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://anonychun.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
